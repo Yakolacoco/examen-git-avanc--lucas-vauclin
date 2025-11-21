@@ -1,1 +1,1 @@
-un controle pour voir si on na bien appris le GIT 
+cette banane va être utilisé pour vérifier mon travail et vérifier que j’aime bien les bananes.
