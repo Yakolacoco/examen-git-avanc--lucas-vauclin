@@ -1,1 +1,1 @@
-cette banane va être utilisé pour vérifier mon travail et vérifier que j’aime bien les bananes.
+ce github va être utilisé pour vérifier mon travail et vérifier que j'ai bien compris le git.
