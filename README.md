@@ -1,1 +1,3 @@
 ce github va être utilisé pour vérifier mon travail et vérifier que j'ai bien compris le git.
+
+les bananes sont bleues
